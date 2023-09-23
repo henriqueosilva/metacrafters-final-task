@@ -23,7 +23,6 @@ Once the contract is deployed, you can interact with it by calling the mint and 
 ## Authors
 
 Henrique Siva
-[@henriqueosilva]
 
 
 ## License
